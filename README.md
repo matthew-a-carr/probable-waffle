@@ -1,9 +1,10 @@
 # probable-waffle
 
-Waffles are my favourite food.
+My favourite things to eat are:
 
 Other things
 My cakes
 - Plus cakes
 - Sometimes fruit
-- Sometimes chocolates
+- Sometimes chocolate
+- Cakes 
